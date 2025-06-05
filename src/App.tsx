@@ -56,7 +56,7 @@ export default function AnnouncementApp() {
         animate={{ opacity: 1, y: 0 }}
         className="text-3xl md:text-4xl font-bold mb-6 text-center"
       >
-        PENGUMUMAN PENERIMAAN PESERTA DIDIK BARU <br />
+        PENGUMUMAN PENERIMAAN MURID BARU <br />
         SD NEGERI 2 SINGOTRUNAN <br />
         Tahun Ajaran 2025/2026
       </motion.h1>
